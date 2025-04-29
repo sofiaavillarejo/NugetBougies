@@ -11,7 +11,7 @@
     <Description>Nuget para mi proyecto web de Velas Bougies</Description>
     <PackageIcon>Bougies.png</PackageIcon>
     <PackageTags>NET, nuget, C#, velas, clase</PackageTags>
-    <Version>2.0.0</Version>
+    <Version>4.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
